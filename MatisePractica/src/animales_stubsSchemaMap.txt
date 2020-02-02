@@ -1,0 +1,8 @@
+#
+# Generated with Matisse Schema Definition Language 9.1.12
+# Generation date: Sun Jan 26 21:03:38 2020
+#
+# Mapping of Java classes and indexes to the corresponding database schema objects
+#
+animales.Perro = animales.Perro
+animales.Gato = animales.Gato
